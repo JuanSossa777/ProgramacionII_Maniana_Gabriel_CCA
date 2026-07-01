@@ -1,0 +1,14 @@
+Examen de Programación 
+
+1.- 
+
+El bucle while es necesario cuando se necesita cumplir varias condiciones, hasta que se cumpla la condición especifica. El uso del bucle while es necesario cuando por ejemplo se trabaja en un cajero de golosinas o en un cajero automático.
+
+El bucle do-while hace que se ejecuta el código una vez antes de verificar si se cumple una condición. 
+
+2.- 
+
+No, porque la declaración de la variable debe de ir antes de la estructuración if para poder trabajar con esos datos que ya hemos declarado al inicializar nuestra variable. Seria un caso diferente si la variable no tuviera datos declarados, en ese caso si se podría acceder y modificar el valor de una variable. 
+
+
+
